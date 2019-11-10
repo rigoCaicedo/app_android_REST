@@ -1,4 +1,4 @@
-package com.example.myappires;
+package com.example.myappconsultarapi;
 
 import org.junit.Test;
 
